@@ -1,0 +1,236 @@
+# This is the input yaml for the Thumbnail Generator.
+# Please add files in the format:
+# ------------------------------------------------------------------------------
+# Thumbnails:
+#   1:
+#     R: Round Info
+#     T: Tournament Number
+#     P1: Player 1
+#     C1: Character 1
+#     P2: Player 2
+#     C2: Character 2
+#
+# EXAMPLE
+#
+# Thumbnails
+#   1:
+#     R: Top 16 LSF
+#     T: Peak 39
+#     P1: DGS FuerzaDON
+#     C1: Shulk
+#     P2: Louir
+#     C2: Pokemon Trainer
+#-------------------------------------------------------------------------------
+# This can be repeated for as many thumbnails as needed
+# NOTE: Don't use the "#" symbol in entries as this marks comments in yamls
+#
+# MID WEEK MADNESS
+#
+Thumbnails:
+  1:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  2:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  3:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  4:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  5:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  6:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  7:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  8:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  9:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  10:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  11:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  12:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  13:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  14:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+  15:
+    R:
+    T:
+    P1:
+    C1:
+    P2:
+    C2:
+
+
+#-------------------------------------------------------------------------------
+# CHARACTER NAME REFERENCE DICTIONARY
+# Use names on left for C1/C2 references
+
+Roster:
+  Mario:            (1)-Mario.png
+  DK:               (2)-DK.png
+  Link:             (3)-Link.png
+  Samus:            (4)-Samus.png
+  Dark Samus:       (4e)-DarkSamus.png
+  Yoshi:            (5)-Yoshi.png
+  Kirby:            (6)-Kirby.png
+  Fox:              (7)-Fox.png
+  Pikachu:          (8)-Pikachu.png
+  Luigi:            (9)-Luigi.png
+  Ness:             (10)-Ness.png
+  Captain Falcon:   (11)-Falcon.png
+  Jigglypuff:       (12)-Puff.png
+  Peach:            (13)-Peach
+  Daisy:            (13e)-Daisy
+  Bowser:           (14)-Bowser.png
+  Ice Climbers:     (15)-IceClimbers.png
+  Sheik:            (16)-Sheik.png
+  Zelda:            (17)-Zelda.png
+  Doctor Mario:     (18)-DrMario.png
+  Pichu:            (19)-Pichu
+  Falco:            (20)-Falco.png
+  Marth:            (21)-Marth.png
+  Lucina:           (21e)-Lucina.png
+  Young Link:       (22)-YoungLink.png
+  Ganondorf:        (23)-Ganondorf.png
+  Mewtwo:           (24)-Mewtwo.png
+  Roy:              (25)-Roy.png
+  Chrom:            (25e)-Chrom.png
+  G&W:              (26)-G&W.png
+  Meta Knight:      (27)-MetaKnight.png
+  Pit:             (28)-Pitt.png
+  Dark Pit:        (28e)-DarkPitt.png
+  ZSS:              (29)-ZSS.png
+  Wario:            (30)-Wario.png
+  Snake:            (31)-Snake.png
+  Ike:              (32)-Ike.png
+  Pokemon Trainer:  (33)-PT.png
+  Diddy Kong:       (36)-Diddy.png
+  Lucas:            (37)-Lucas.png
+  Sonic:            (38)-Sonic.png
+  Dedede:           (39)-Dedede.png
+  Olimar:           (40)-Olimar.png
+  Lucario:          (41)-Lucario.png
+  ROB:              (42)-Rob.png
+  Toon Link:        (43)-ToonLink.png
+  Wolf:             (44)-Wolf.png
+  Villager:         (45)-Villager.png
+  Mega Man:         (46)-MegaMan.png
+  Wii Fit:          (47)-WiiFit.png
+  Rosalina:         (48)-Rosalina.png
+  Little Mac:       (49)-LittleMac.png
+  Greninja:         (50)-Greninja.png
+  Mii Brawler:      (51)-MiiBrawler.png
+  Mii Sword:        (52)-MiiSword.png
+  Mii Gunner:       (53)-MiiGunner.png
+  Palutena:         (54)-Palutena.png
+  PacMan:           (55)-PacMan.png
+  Robin:            (56)-Robin.png
+  Shulk:            (57)-Shulk.png
+  Bowser Jr:        (58)-BowserJr.png
+  Duck Hunt:        (59)-DuckHunt.png
+  Ryu:              (60)-Ryu.png
+  Ken:              (60e)-Ken.png
+  Cloud:            (61)-Cloud.png
+  Corrin:           (62)-Corrin.png
+  Bayonetta:        (63)-Bayonetta.png
+  Inkling:          (64)-Inkling.png
+  Ridley:           (65)-Riddly.png
+  Simon:            (66)-Simon.png
+  Richter:          (66e)-Richter.png
+  K Rool:           (67)-KRool.png
+  Isabelle:         (68)-Isabelle.png
+  Incineroar:       (69)-Incineroar.png
+  Plant:            (70)-PiranhaPlant.png
+  Joker:            (71)-Joker.png
+  Hero:             (72)-Hero.png
+  Banjo:            (73)-Banjo.png
+  Terry:            (74)-Terry.png
+  Byleth:           (75)-Byleth.png
+  Min min:          (76)-Minmin.png
