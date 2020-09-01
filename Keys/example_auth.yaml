@@ -1,9 +1,0 @@
-
-# insert your Auth Key from smash.gg.
-# Then rename this file to "auth.yaml"
-# Place in same dir as SeedGenerator.py 
-
-authkey:
-    # Insert key below in form
-    #'################################'
-    '5d0bdd167da79fa3910d2e412cf59402'
