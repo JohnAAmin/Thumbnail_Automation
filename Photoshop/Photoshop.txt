@@ -1,0 +1,4 @@
+Please place your photoshop file here.
+This will be the file modified to produce thumbnails.
+
+It should be named: "Thumbnail_BG.psd" 
