@@ -1,4 +1,6 @@
 __pycache__/
 Past_Tourneys/
 testfiles/
-Keys/auth.yaml
+keys/example_auth.yaml
+keys/auth.yaml
+Old/
